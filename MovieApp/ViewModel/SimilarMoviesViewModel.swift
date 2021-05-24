@@ -15,14 +15,10 @@ protocol SimilarMoviesFetching {
 class SimilarMoviesViewModel  {
     
     //MARK: Network layer
-    
     private let networkManager = NetworkManager()
  
     //MARK: Public
-    
-    var similarMovies = [Movies]()
     var similarMoviesObservable = Observable<[Movies]>([])
-    
 }
 
     //MARK: Protocol
