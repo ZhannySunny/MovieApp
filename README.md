@@ -6,6 +6,7 @@ Pet project about movies
 - Showing similar movies
 - Adding to favorites
 - Searching movies
+- Pagination
 
 <img width="294" alt="scr1" src="https://user-images.githubusercontent.com/17294536/119048763-7e23fd00-b9e1-11eb-8327-b1a5b07e8b8f.png">
 <img width="297" alt="Screenshot 2021-05-20 at 17 58 56" src="https://user-images.githubusercontent.com/17294536/119049552-8466a900-b9e2-11eb-9a3c-565c6d4972b5.png">
